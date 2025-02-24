@@ -1,0 +1,37 @@
+Git is primarily used to manage your project, comprising a set of code/text files that may change.
+Git stands for "GLOBAL INFORMATION TRACKER". 
+
+Git was created in the year 2005 by Linus Torvalds. The same person who created linux. 
+
+In todays world, we are using so many code but there was no centralized repository before. Hence it was important to have centralized 
+repository, so that it can be stored and save.
+
+GIT bub gives the platform for coders to have a centralized repository, you can save your code, make it public or private in GIT hub. 
+
+It uses Git to provide distributed version control and GitHub itself provides access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. 
+
+Developers can use Git to maintain a history of changes to their code. 
+
+GIT is called Version control system. 
+Git is VCS because it helps you track different versions of your code and collaborate with other developers. 
+
+Use the below website to download GIT based on operating system. Below is for GUI download and installation. 
+
+https://git-scm.com/
+
+Click on downloads
+
+https://git-scm.com/downloads 
+
+Below are the command line installation based on OS. 
+
+Below are the command to save the files in Git
+
+
+
+
+
+
+
+
+
