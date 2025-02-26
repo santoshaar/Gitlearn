@@ -23,9 +23,7 @@ Click on downloads
 
 https://git-scm.com/downloads 
 
-Below are the command line installation based on OS. 
 
-Below are the command to save the files in Git
 
 
 
